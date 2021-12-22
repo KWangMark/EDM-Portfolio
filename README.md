@@ -14,7 +14,7 @@ This Portfolio includes: 8 Individual Coding Excercises, 4 Analysis Challenge As
 [ACA 2](https://github.com/KWangMark/EDM-Portfolio/blob/541800dd6db07ba2a75cbcb5239f24ecd392d402/ACA2.ipynb)  
 [ACA 3](https://github.com/KWangMark/EDM-Portfolio/blob/541800dd6db07ba2a75cbcb5239f24ecd392d402/ACA3.ipynb)  
 [ACA 4](https://github.com/KWangMark/EDM-Portfolio/blob/541800dd6db07ba2a75cbcb5239f24ecd392d402/ACA%204%20.ipynb)   
-- Reflection Essay: 
+- Reflection Essay:   
 [Reflection Essay](https://github.com/KWangMark/EDM-Portfolio/blob/4deb7a64586b9fdd545c6a143d6b0aa3198d4878/HUDK%204050reflection%20pdf.pdf)  
 - Creative EDM Assignment:   
 [Creative EDM Assignment Paper(Narratives)](https://github.com/KWangMark/EDM-Portfolio/blob/4deb7a64586b9fdd545c6a143d6b0aa3198d4878/Creative%20EDM%20Assignments/Creative_EDM_Assignment.pdf)  
